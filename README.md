@@ -7,7 +7,7 @@ Permite realizar las operaciones:
 - Suma y gráfica de vectores dimensionales. Vector resultante y angulo.
 - Resta y gráfica de vectores dimensionales. Vector resultante y angulo.
 - Producto punto. Calculo de magnitud de cada vector. Magnitud y angulo de vector reultante. Gráficación
-- Ecuación de la linea recta. Calculo de la ecuación de la line arecta 
+- Ecuación de la linea recta. Calculo de la ecuación de la linea recta y graficación de los vectores. 
 
 ## Vectores 3D
 Permite realizar las acciones y operaciones:
