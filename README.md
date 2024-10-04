@@ -3,11 +3,11 @@ Calculadora que permite realizar varias operaciones con vectores en 2D y 3D. *So
 
 ## Vectores 2D
 Permite realizar las operaciones:  
-- Gráficar yy calcular vectores
-- Suma de vectores
-- Resta de vectores
-- Producto punto
-- Ecuación de la linea recta
+- Gráficar y cálculo de magnitud y angulo de un vector dimensional.
+- Suma y gráfica de vectores dimensionales. Vector resultante y angulo.
+- Resta y gráfica de vectores dimensionales. Vector resultante y angulo.
+- Producto punto. Calculo de magnitud de cada vector. Magnitud y angulo de vector reultante. Gráficación
+- Ecuación de la linea recta. Calculo de la ecuación de la line arecta 
 
 ## Vectores 3D
 Permite realizar las acciones y operaciones:
